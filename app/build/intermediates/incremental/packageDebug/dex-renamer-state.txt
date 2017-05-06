@@ -1,0 +1,7 @@
+#Fri May 05 21:07:55 CDT 2017
+base.0=D\:\\uta\\android_projects\\ABSI\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a5650bc707bd8f3964d7a682e334d908b773d59f
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\uta\\android_projects\\ABSI\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ad427530eae9d0d17132fcb27d36efde6e017cbe\\classes.dex
+base.1=D\:\\uta\\android_projects\\ABSI\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ad427530eae9d0d17132fcb27d36efde6e017cbe
+file.0=D\:\\uta\\android_projects\\ABSI\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a5650bc707bd8f3964d7a682e334d908b773d59f\\classes.dex

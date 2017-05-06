@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\uta\android_projects\ABSI\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="D:\uta\android_projects\ABSI\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.1.1_7008552af354c30bdcf97658e335dae88ef22c4e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\uta\android_projects\ABSI\app\build\intermediates\exploded-aar\com.android.support\design\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="D:\uta\android_projects\ABSI\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.1.1_f51b2b66b04cc7576a0d334789d2c6c1252cc5e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\uta\android_projects\ABSI\app\build\intermediates\exploded-aar\ABSI\openCVLibrary320\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4818e3215cc91c7caaa13ff2fecc01d9d411d413">
+        <dex dex="D:\uta\android_projects\ABSI\app\build\intermediates\pre-dexed\debug\ABSI-openCVLibrary320-unspecified_615df55a28fd2e9f0afeea5b75d916ea04adf283.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\uta\android_projects\ABSI\app\build\intermediates\exploded-aar\com.microsoft.projectoxford\face\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9885b9cbfc39129a13674d39d0cae321fc0dc97">
+        <dex dex="D:\uta\android_projects\ABSI\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.microsoft.projectoxford-face-1.0.0_ea7e98aeeb4039cf725c518911cee6b55d7785fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\uta\android_projects\ABSI\app\build\intermediates\exploded-aar\com.microsoft.projectoxford\face\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9885b9cbfc39129a13674d39d0cae321fc0dc97">
+        <dex dex="D:\uta\android_projects\ABSI\app\build\intermediates\pre-dexed\debug\com.microsoft.projectoxford-face-1.0.0_ea7e98aeeb4039cf725c518911cee6b55d7785fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\uta\android_projects\ABSI\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="D:\uta\android_projects\ABSI\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.1_7008552af354c30bdcf97658e335dae88ef22c4e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\uta\android_projects\ABSI\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="D:\uta\android_projects\ABSI\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.1.1_2efd533f65e9f5f6f97154c95f220d6b8c9df420\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\uta\android_projects\ABSI\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="D:\uta\android_projects\ABSI\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.1.1_2efd533f65e9f5f6f97154c95f220d6b8c9df420.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\uta\android_projects\ABSI\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3b59441a98d186f33f16aae0b4b68e069eec2c30">
+        <dex dex="D:\uta\android_projects\ABSI\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ad427530eae9d0d17132fcb27d36efde6e017cbe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\uta\android_projects\ABSI\app\build\intermediates\exploded-aar\com.android.support\design\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="D:\uta\android_projects\ABSI\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.1.1_f51b2b66b04cc7576a0d334789d2c6c1252cc5e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\uta\android_projects\ABSI\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="D:\uta\android_projects\ABSI\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_4e2b08d45d450133e82c772a83b6da5f84b89392\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\uta\android_projects\ABSI\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09235a1abd73bafe436421aa11c64a46629d67a9">
+        <dex dex="D:\uta\android_projects\ABSI\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a5650bc707bd8f3964d7a682e334d908b773d59f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harish Ram\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="D:\uta\android_projects\ABSI\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_075421fe82aa125e491b6bd0077ca51a8618b838\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\uta\android_projects\ABSI\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\uta\android_projects\ABSI\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.1_fb68303a5e9e4b35d8052daa5dc49906f8f12c23.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\uta\android_projects\ABSI\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\uta\android_projects\ABSI\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_fb68303a5e9e4b35d8052daa5dc49906f8f12c23\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harish Ram\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.5\686c608d1805b6d4d425ec4459e88164ffc85870\gson-2.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="686c608d1805b6d4d425ec4459e88164ffc85870">
+        <dex dex="D:\uta\android_projects\ABSI\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.5_1536270d0a7ba2b92d19605de9120cb3cd10e7d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\uta\android_projects\ABSI\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="D:\uta\android_projects\ABSI\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_0ab8a0110fa1d7238eb4e9781513471ded305d07\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\uta\android_projects\ABSI\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="D:\uta\android_projects\ABSI\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.1_d61cb2fcc6a461d8e79ef7b8a9d0ef10475fdbcb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Harish Ram\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.5\686c608d1805b6d4d425ec4459e88164ffc85870\gson-2.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="686c608d1805b6d4d425ec4459e88164ffc85870">
+        <dex dex="D:\uta\android_projects\ABSI\app\build\intermediates\pre-dexed\debug\gson-2.5_1536270d0a7ba2b92d19605de9120cb3cd10e7d8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\uta\android_projects\ABSI\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="D:\uta\android_projects\ABSI\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_63cc1d150d7c7bd796bf421278fe019cd7c4ab16\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\uta\android_projects\ABSI\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="D:\uta\android_projects\ABSI\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.1_4e2b08d45d450133e82c772a83b6da5f84b89392.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\uta\android_projects\ABSI\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="D:\uta\android_projects\ABSI\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.1_0ab8a0110fa1d7238eb4e9781513471ded305d07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\uta\android_projects\ABSI\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="D:\uta\android_projects\ABSI\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.1_63cc1d150d7c7bd796bf421278fe019cd7c4ab16.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\uta\android_projects\ABSI\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="D:\uta\android_projects\ABSI\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_c6ef2e0664c91556f2ba972c8c89cd2d3d6d3011\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\uta\android_projects\ABSI\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="D:\uta\android_projects\ABSI\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.1_c6ef2e0664c91556f2ba972c8c89cd2d3d6d3011.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\uta\android_projects\ABSI\app\build\intermediates\exploded-aar\com.microsoft.projectoxford\emotion\1.0.355\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e14806eb68bf5098f8a6b6f09e414143b7532280">
+        <dex dex="D:\uta\android_projects\ABSI\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.microsoft.projectoxford-emotion-1.0.355_11b662bf8daddd368837d8754718152faf25fd37\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\uta\android_projects\ABSI\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="D:\uta\android_projects\ABSI\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_d61cb2fcc6a461d8e79ef7b8a9d0ef10475fdbcb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\uta\android_projects\ABSI\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="D:\uta\android_projects\ABSI\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_711bcd0526737cbd50e7ac0afc2c334749707d50\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\uta\android_projects\ABSI\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="D:\uta\android_projects\ABSI\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.1_711bcd0526737cbd50e7ac0afc2c334749707d50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\uta\android_projects\ABSI\app\build\intermediates\exploded-aar\com.microsoft.projectoxford\emotion\1.0.355\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e14806eb68bf5098f8a6b6f09e414143b7532280">
+        <dex dex="D:\uta\android_projects\ABSI\app\build\intermediates\pre-dexed\debug\com.microsoft.projectoxford-emotion-1.0.355_11b662bf8daddd368837d8754718152faf25fd37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Harish Ram\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="D:\uta\android_projects\ABSI\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_075421fe82aa125e491b6bd0077ca51a8618b838.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\commons-io\commons-io\2.4\commons-io-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="D:\uta\android_projects\ABSI\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-io-2.4_b2955a73e8fdec69863902c786dced8321b28c5c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\uta\android_projects\ABSI\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="D:\uta\android_projects\ABSI\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.1_7c6aea1dc98a1c1b00b92dc9450e3d102ff91a9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\commons-io\commons-io\2.4\commons-io-2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="D:\uta\android_projects\ABSI\app\build\intermediates\pre-dexed\debug\commons-io-2.4_b2955a73e8fdec69863902c786dced8321b28c5c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\uta\android_projects\ABSI\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="D:\uta\android_projects\ABSI\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_e66934ba09033e4b6f1ac3695bedb6cc21297824\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\uta\android_projects\ABSI\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="D:\uta\android_projects\ABSI\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_7c6aea1dc98a1c1b00b92dc9450e3d102ff91a9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\uta\android_projects\ABSI\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="D:\uta\android_projects\ABSI\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.1_e66934ba09033e4b6f1ac3695bedb6cc21297824.jar" />
+    </item>
+
+</items>
